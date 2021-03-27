@@ -1,0 +1,14 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "hello"
+      }
+    ],
+    "profile": {
+      "name": "Joanna",
+      "email": "joanna@digitiket.com",
+      "password": "123",
+      "saldo" : "20000"
+    }
+  }
